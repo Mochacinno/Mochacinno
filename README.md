@@ -1,4 +1,4 @@
-## Hi there 👋
+# "Good things take time; one must not jump to quick conclusions. A butterfly was once a caterpillar — though not beautiful at the beginning, it gradually becomes ever so breathtakingly beautiful. ~ 권용진 probably"
 
 <!--
 **Mochacinno/Mochacinno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
